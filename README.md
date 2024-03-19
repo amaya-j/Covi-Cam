@@ -1,4 +1,4 @@
-# CoviCAM
+# CoviCam
 
 ## Overview
 CoviCAM is an object detection system specifically designed for detecting people in images, particularly for applications related to social distancing and crowd monitoring. The project utilizes YOLOv3, a popular deep learning algorithm, trained on the COCO dataset for accurate object detection.
